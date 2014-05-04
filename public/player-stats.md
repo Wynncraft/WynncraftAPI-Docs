@@ -7,6 +7,9 @@ categories: ["API"]
 ## Player Stats API
 The player stats API returns publically available data about a player.
 
+### Valid Parameters
+* `command` - The player name
+
 ### Example Request
 `http://api.wynncraft.com/public_api.php?action=playerStats&command=Tama63`
 
