@@ -1,0 +1,10 @@
+.code-canvas {
+	display: none;
+}
+
+.float-view blockquote,
+.float-view .highlight {
+	float: none;
+	clear: none;
+	width: auto;
+}
