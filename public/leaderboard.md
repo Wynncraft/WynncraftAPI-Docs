@@ -7,6 +7,9 @@ categories: ["API"]
 ## PVP Leaderboard API
 The PvP leaderboard API returns the raw data used on the `http://wynncraft.com` Nether leaderboard. The response returns in order of PvP kills.
 
+#### Response Notice
+The response returns a duplicate keys for internal use.
+
 ### Valid Parameters
 * `command` - The group to fetch from can be: `daily`, `weekly` or `all`.
 * `limit` - The limit to fetch from (max 100)
