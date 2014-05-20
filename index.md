@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Wynncraft API Official Documentation
-Documentation for our public API.
+Documentation for our public game API.
 
 ### Example Libraries/Uses
 * https://github.com/Wynncraft/WynncraftAPI-PHP - PHP class that queries the API
