@@ -27,7 +27,7 @@ include: ["_assets", "_search.json"]
 baseurl:      http://docs.wynncraft.com
 title:        Wynncraft API Docs
 tagline:      Documentation for the Wynncraft Web API
-description:  The Wynncraft Web API reports simple data from our services
+description:  The Wynncraft Web API returns data from our services
 url:          http://docs.wynncraft.com
 
 author:
