@@ -15,8 +15,8 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
 
 ### Example Response
 ```json
-[
-    {
+{
+    "0": {
         "item_name": "Bob's Mythic Bow",
         "item_type": "Legendary",
         "item_mineraft": "Bow",
@@ -33,7 +33,7 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
         "min_dam": "566",
         "max_dam": "463"
     },
-    {
+    "1": {
         "item_name": "Bob's Mythic Daggers",
         "item_type": "Legendary",
         "item_mineraft": "Shears",
@@ -50,7 +50,7 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
         "min_dam": "420",
         "max_dam": "389"
     },
-    {
+    "2": {
         "item_name": "Bob's Mythic Spear",
         "item_type": "Legendary",
         "item_mineraft": "Shovel",
@@ -67,7 +67,7 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
         "min_dam": "368",
         "max_dam": "311"
     },
-    {
+    "3": {
         "item_name": "Bob's Mythic Wand",
         "item_type": "Legendary",
         "item_mineraft": "Stick",
@@ -83,6 +83,10 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
         },
         "min_dam": "278",
         "max_dam": "204"
+    },
+    "request": {
+        "timestamp": 1401914834,
+        "ip": "127.0.0.1"
     }
-]
+}
 ```
