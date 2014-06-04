@@ -19,150 +19,154 @@ The response returns a duplicate keys for internal use.
 
 ### Example Response
 ```json
-[
-    {
+{
+    "0": {
         "0": "Yzzero",
         "1": "Archer",
         "2": "75",
-        "3": "10627",
-        "4": "5942",
+        "3": "13940",
+        "4": "7450",
         "username": "Yzzero",
         "class": "Archer",
         "level": "75",
-        "kills": "10627",
-        "deaths": "5942"
+        "kills": "13940",
+        "deaths": "7450"
     },
-    {
-        "0": "GhostArcherFTW",
-        "1": "Archer",
-        "2": "75",
-        "3": "6674",
-        "4": "5273",
-        "username": "GhostArcherFTW",
-        "class": "Archer",
-        "level": "75",
-        "kills": "6674",
-        "deaths": "5273"
-    },
-    {
-        "0": "OneOfThoseDays",
-        "1": "Mage",
-        "2": "75",
-        "3": "6360",
-        "4": "2989",
-        "username": "OneOfThoseDays",
-        "class": "Mage",
-        "level": "75",
-        "kills": "6360",
-        "deaths": "2989"
-    },
-    {
-        "0": "CreepersAmongUs",
-        "1": "Assassin",
-        "2": "75",
-        "3": "6329",
-        "4": "4087",
-        "username": "CreepersAmongUs",
-        "class": "Assassin",
-        "level": "75",
-        "kills": "6329",
-        "deaths": "4087"
-    },
-    {
-        "0": "jacobjames02",
-        "1": "Archer",
-        "2": "72",
-        "3": "5355",
-        "4": "4811",
-        "username": "jacobjames02",
-        "class": "Archer",
-        "level": "72",
-        "kills": "5355",
-        "deaths": "4811"
-    },
-    {
-        "0": "LeonardDathMaul",
-        "1": "Mage",
-        "2": "75",
-        "3": "5222",
-        "4": "2430",
-        "username": "LeonardDathMaul",
-        "class": "Mage",
-        "level": "75",
-        "kills": "5222",
-        "deaths": "2430"
-    },
-    {
+    "1": {
         "0": "Francis12qwasyx",
         "1": "Archer",
         "2": "75",
-        "3": "4894",
-        "4": "3357",
+        "3": "10276",
+        "4": "6280",
         "username": "Francis12qwasyx",
         "class": "Archer",
         "level": "75",
-        "kills": "4894",
-        "deaths": "3357"
+        "kills": "10276",
+        "deaths": "6280"
     },
-    {
-        "0": "Croix464",
-        "1": "Archer",
-        "2": "75",
-        "3": "4615",
-        "4": "4470",
-        "username": "Croix464",
-        "class": "Archer",
-        "level": "75",
-        "kills": "4615",
-        "deaths": "4470"
-    },
-    {
-        "0": "trainkid64",
+    "2": {
+        "0": "CreepersAmongUs",
         "1": "Assassin",
         "2": "75",
-        "3": "4354",
-        "4": "2243",
-        "username": "trainkid64",
+        "3": "8143",
+        "4": "5234",
+        "username": "CreepersAmongUs",
         "class": "Assassin",
         "level": "75",
-        "kills": "4354",
-        "deaths": "2243"
+        "kills": "8143",
+        "deaths": "5234"
     },
-    {
+    "3": {
         "0": "youngmonster5",
         "1": "Archer",
         "2": "75",
-        "3": "4333",
-        "4": "2818",
+        "3": "8080",
+        "4": "4991",
         "username": "youngmonster5",
         "class": "Archer",
         "level": "75",
-        "kills": "4333",
-        "deaths": "2818"
+        "kills": "8080",
+        "deaths": "4991"
     },
-    {
+    "4": {
+        "0": "GhostArcherFTW",
+        "1": "Archer",
+        "2": "75",
+        "3": "7518",
+        "4": "5713",
+        "username": "GhostArcherFTW",
+        "class": "Archer",
+        "level": "75",
+        "kills": "7518",
+        "deaths": "5713"
+    },
+    "5": {
+        "0": "OneOfThoseDays",
+        "1": "Mage",
+        "2": "75",
+        "3": "6402",
+        "4": "2999",
+        "username": "OneOfThoseDays",
+        "class": "Mage",
+        "level": "75",
+        "kills": "6402",
+        "deaths": "2999"
+    },
+    "6": {
+        "0": "trainkid64",
+        "1": "Assassin",
+        "2": "75",
+        "3": "6390",
+        "4": "3118",
+        "username": "trainkid64",
+        "class": "Assassin",
+        "level": "75",
+        "kills": "6390",
+        "deaths": "3118"
+    },
+    "7": {
         "0": "goodvibrations1",
         "1": "Archer",
         "2": "75",
-        "3": "4327",
-        "4": "3525",
+        "3": "5957",
+        "4": "4754",
         "username": "goodvibrations1",
         "class": "Archer",
         "level": "75",
-        "kills": "4327",
-        "deaths": "3525"
+        "kills": "5957",
+        "deaths": "4754"
     },
-    {
-        "0": "Compmaster",
-        "1": "Warrior",
+    "8": {
+        "0": "jacobjames02",
+        "1": "Archer",
+        "2": "72",
+        "3": "5409",
+        "4": "4873",
+        "username": "jacobjames02",
+        "class": "Archer",
+        "level": "72",
+        "kills": "5409",
+        "deaths": "4873"
+    },
+    "9": {
+        "0": "Croix464",
+        "1": "Archer",
         "2": "75",
-        "3": "4027",
-        "4": "3372",
-        "username": "Compmaster",
-        "class": "Warrior",
+        "3": "5382",
+        "4": "5084",
+        "username": "Croix464",
+        "class": "Archer",
         "level": "75",
-        "kills": "4027",
-        "deaths": "3372"
+        "kills": "5382",
+        "deaths": "5084"
+    },
+    "10": {
+        "0": "LeonardDathMaul",
+        "1": "Mage",
+        "2": "75",
+        "3": "5249",
+        "4": "2448",
+        "username": "LeonardDathMaul",
+        "class": "Mage",
+        "level": "75",
+        "kills": "5249",
+        "deaths": "2448"
+    },
+    "11": {
+        "0": "TheBeastNL",
+        "1": "Archer",
+        "2": "75",
+        "3": "5203",
+        "4": "3995",
+        "username": "TheBeastNL",
+        "class": "Archer",
+        "level": "75",
+        "kills": "5203",
+        "deaths": "3995"
+    },
+    "request": {
+        "timestamp": 1401914878,
+        "ip": "127.0.0.1"
     }
-]
+}
 ```
