@@ -16,6 +16,11 @@ The player stats API returns publically available data about a player.
 ### Example Response
 ```json
 {
+    "request": {
+        "timestamp": "2014-01-01",
+        "ip": "127.0.0.1"
+    },
+    "username": "Tama63,
     "rank": "Administrator",
     "since_last_login": "0 month(s) 7 day(s)",
     "playtime": "11.50",
