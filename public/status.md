@@ -26,6 +26,10 @@ The status API returns useful information about the status of the servers.
 ### Example Response
 ```json
 {
+    "request": {
+        "timestamp": "2014-01-01",
+        "ip": "127.0.0.1"
+    },
     "DEV1": [],
     "YOUTUBE1": [],
     "WC41": [
