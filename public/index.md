@@ -20,4 +20,4 @@ Parameter     | Description
 `limit`       | Some grouped data queries let you define a limit for the response
 
 ### Throttling by Cloudflare
-If you spam requests to the API you will be automatically blacklisted from querying the API, you may contact `chris@wynncraft.com` to request whitelisting for unlimited calls.
+If you spam requests to the API you will be automatically blacklisted from querying the API, you may contact `chris@wynncraft.com` to request whitelisting for unlimited calls to the API.
