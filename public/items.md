@@ -19,7 +19,7 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
     "0": {
         "item_name": "Bob's Mythic Bow",
         "item_type": "Legendary",
-        "item_mineraft": "Bow",
+        "item_minecraft": "Bow",
         "item_min_lvl": "75",
         "identification": {
             "health_regen": "1.5",
@@ -70,7 +70,7 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
     "3": {
         "item_name": "Bob's Mythic Wand",
         "item_type": "Legendary",
-        "item_mineraft": "Stick",
+        "item_minecraft": "Stick",
         "item_min_lvl": "75",
         "identification": {
             "health_regen": "1.5",
