@@ -30,7 +30,7 @@ The player stats API returns publically available data about a player.
         "pvp_deaths": 1750,
         "chests_found": 1592,
         "blocks_walked": 1162612,
-        "logins": 6270,
+        "logins": 6271,
         "deaths": 397,
         "total_level": 521
     },
@@ -44,7 +44,7 @@ The player stats API returns publically available data about a player.
             "blocks_walked": 325988,
             "logins": 1150,
             "deaths": 117,
-            "level": null
+            "level": 75
         },
         "assassin": {
             "items_identified": 184,
@@ -55,7 +55,7 @@ The player stats API returns publically available data about a player.
             "blocks_walked": 232761,
             "logins": 1148,
             "deaths": 45,
-            "level": null
+            "level": 75
         },
         "mage": {
             "items_identified": 224,
@@ -77,7 +77,7 @@ The player stats API returns publically available data about a player.
             "blocks_walked": 549409,
             "logins": 1697,
             "deaths": 89,
-            "level": null
+            "level": 75
         },
         "darkwizard": {
             "items_identified": 65,
@@ -119,13 +119,13 @@ The player stats API returns publically available data about a player.
             "pvp_deaths": 2,
             "chests_found": 55,
             "blocks_walked": 220,
-            "logins": 244,
+            "logins": 245,
             "deaths": 38,
             "level": 54
         }
     },
     "request": {
-        "timestamp": 1409773835,
+        "timestamp": 1409774640,
         "ip": "127.0.0.1"
     }
 }
