@@ -23,6 +23,7 @@ The player stats API returns publically available data about a player.
     "first_join": "2013-05-02 19:56:05",
     "last_join": "2014-09-03 15:33:27",
     "current_server": "GM1",
+    "friends":["Needlr","MegaKookie"],
     "global": {
         "items_identified": 966,
         "mobs_killed": 235392,
