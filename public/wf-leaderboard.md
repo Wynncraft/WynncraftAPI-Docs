@@ -5,7 +5,7 @@ categories: ["API"]
 ---
 
 ## WF Leaderboard API
-The PvP leaderboard API returns the raw data used on the `http://wynncraft.com` Nether leaderboard. The response returns in order of PvP kills.
+The WF leaderboard API returns the raw data used on the `http://wynncraft.com` WF leaderboard. The response returns in order of WF kills.
 
 #### Response Notice
 The response returns a duplicate keys for internal use.
