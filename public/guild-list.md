@@ -8,7 +8,7 @@ categories: ["API"]
 The guild list API returns a list of guilds
 
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=guildList`
+`https://api.wynncraft.com/public_api.php?action=guildList`
 
 ### Example Response
 ```json
