@@ -8,7 +8,7 @@ categories: ["API"]
 The territory list API returns a list of territories
 
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=territoryList`
+`https://api.wynncraft.com/public_api.php?action=territoryList`
 
 ### Example Response
 ```json
