@@ -357,6 +357,12 @@ The player stats API returns publically available data about a player.
             ]
         }
     },
+    "wizard_fortress": {
+        "kills": 3,
+        "deaths": 11,
+        "wins": 2,
+        "losses": 1
+    },
     "request": {
         "timestamp": 1410032194,
         "ip": "127.0.0.1"
