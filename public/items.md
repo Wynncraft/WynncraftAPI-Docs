@@ -11,7 +11,7 @@ The item database API acts like the `Item Guide` on `http://wynncraft.com` and a
 * `command` - The search query, this can be: a level, a quality, a item type or an item name. 
 
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=items&command=75`
+`https://api.wynncraft.com/public_api.php?action=items&command=75`
 
 ### Example Response
 ```json
