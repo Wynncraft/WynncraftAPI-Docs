@@ -11,7 +11,7 @@ The player stats API returns publically available data about a player.
 * `command` - The player name
 
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=playerStats&command=Acer78`
+`https://api.wynncraft.com/public_api.php?action=playerStats&command=Acer78`
 
 ### Example Response
 ```json
