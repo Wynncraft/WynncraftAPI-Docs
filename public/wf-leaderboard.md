@@ -15,7 +15,7 @@ The response returns a duplicate keys for internal use.
 * `limit` - The limit to fetch from (max 100)
 
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=wfLeaderboard&command=all&limit=12`
+`https://api.wynncraft.com/public_api.php?action=wfLeaderboard&command=all&limit=12`
 
 ### Example Response
 ```json
