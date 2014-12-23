@@ -10,7 +10,7 @@ The status API returns useful information about the status of the servers.
 ## Player Count
 
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=onlinePlayersSum`
+`https://api.wynncraft.com/public_api.php?action=onlinePlayersSum`
 
 ### Example Response
 ```json
@@ -25,7 +25,7 @@ The status API returns useful information about the status of the servers.
 
 ## Players Online
 ### Example Request
-`http://api.wynncraft.com/public_api.php?action=onlinePlayers`
+`https://api.wynncraft.com/public_api.php?action=onlinePlayers`
 
 ### Example Response
 ```json
