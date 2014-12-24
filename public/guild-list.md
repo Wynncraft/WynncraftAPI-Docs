@@ -5,7 +5,7 @@ categories: ["API"]
 ---
 
 ## Guild List API
-The guild list API returns a list of guilds
+The guild list API returns a list of guilds ordered by level
 
 ### Example Request
 `https://api.wynncraft.com/public_api.php?action=guildList`
