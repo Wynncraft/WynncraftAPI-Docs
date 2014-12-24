@@ -21,7 +21,7 @@ The guild stats API returns publically available data about a guild.
     "member_count": 37,
     "member_cap": 41,
     "level": 37,
-    "exp": null,
+    "xp": 3333332,
     "stats": {
         "pvp_kills": 10492,
         "pvp_deaths": 6352,
